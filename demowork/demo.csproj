@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{20B4CECD-D3B2-4CC3-A53B-48C74CE97923}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RPshipment</RootNamespace>
+    <AssemblyName>RPshipment</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dbSHPadmin.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbSHPadmin.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbSHPclient.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbSHPclient.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbSHPmenager.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbSHPmenager.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="form-auth\FormADDUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-auth\FormADDUser.Designer.cs">
+      <DependentUpon>FormADDUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-auth\FormAuth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-auth\FormAuth.Designer.cs">
+      <DependentUpon>FormAuth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-auth\FormChngPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-auth\FormChngPass.Designer.cs">
+      <DependentUpon>FormChngPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-auth\FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-auth\FormUser.Designer.cs">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-message\FormErrorPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-message\FormErrorPass.Designer.cs">
+      <DependentUpon>FormErrorPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-message\FormCloseDoor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-message\FormCloseDoor.Designer.cs">
+      <DependentUpon>FormCloseDoor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-message\FormError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-message\FormError.Designer.cs">
+      <DependentUpon>FormError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-message\FormErrorConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-message\FormErrorConnection.Designer.cs">
+      <DependentUpon>FormErrorConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-shipment\form-search\allAdministration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-shipment\form-search\allAdministration.Designer.cs">
+      <DependentUpon>allAdministration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-shipment\FormAdministration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-shipment\FormAdministration.Designer.cs">
+      <DependentUpon>FormAdministration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-shipment\FormClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-shipment\FormClient.Designer.cs">
+      <DependentUpon>FormClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-shipment\FormShip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-shipment\FormShip.Designer.cs">
+      <DependentUpon>FormShip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-shipment\FormPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-shipment\FormPass.Designer.cs">
+      <DependentUpon>FormPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form-shipment\FormMenager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form-shipment\FormMenager.Designer.cs">
+      <DependentUpon>FormMenager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="form-auth\FormADDUser.resx">
+      <DependentUpon>FormADDUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-auth\FormAuth.resx">
+      <DependentUpon>FormAuth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-auth\FormChngPass.resx">
+      <DependentUpon>FormChngPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-auth\FormUser.resx">
+      <DependentUpon>FormUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-message\FormErrorPass.resx">
+      <DependentUpon>FormErrorPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-message\FormCloseDoor.resx">
+      <DependentUpon>FormCloseDoor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-message\FormError.resx">
+      <DependentUpon>FormError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-message\FormErrorConnection.resx">
+      <DependentUpon>FormErrorConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-shipment\form-search\allAdministration.resx">
+      <DependentUpon>allAdministration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-shipment\FormAdministration.resx">
+      <DependentUpon>FormAdministration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-shipment\FormClient.resx">
+      <DependentUpon>FormClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-shipment\FormShip.resx">
+      <DependentUpon>FormShip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-shipment\FormPass.resx">
+      <DependentUpon>FormPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form-shipment\FormMenager.resx">
+      <DependentUpon>FormMenager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="dbSHPadmin.xsc">
+      <DependentUpon>dbSHPadmin.xsd</DependentUpon>
+    </None>
+    <None Include="dbSHPadmin.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbSHPadmin.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbSHPadmin.xss">
+      <DependentUpon>dbSHPadmin.xsd</DependentUpon>
+    </None>
+    <None Include="dbSHPclient.xsc">
+      <DependentUpon>dbSHPclient.xsd</DependentUpon>
+    </None>
+    <None Include="dbSHPclient.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbSHPclient.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbSHPclient.xss">
+      <DependentUpon>dbSHPclient.xsd</DependentUpon>
+    </None>
+    <None Include="dbSHPmenager.xsc">
+      <DependentUpon>dbSHPmenager.xsd</DependentUpon>
+    </None>
+    <None Include="dbSHPmenager.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbSHPmenager.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbSHPmenager.xss">
+      <DependentUpon>dbSHPmenager.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipmentexpl.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

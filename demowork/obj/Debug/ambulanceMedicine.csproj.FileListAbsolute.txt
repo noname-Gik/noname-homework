@@ -1,0 +1,61 @@
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\ambulanceMedicine.exe.config
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\ambulanceMedicine.exe
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\ambulanceMedicine.pdb
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.FormMain.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.Properties.Resources.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.csproj.CopyComplete
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.exe
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.pdb
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormAdministration.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormClient.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormDoctor.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormMedService.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormMedStaff.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormTableAdministration.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormTableDoctor.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormTableMedHelper.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormTableRegWorker.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormPass.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\obj\Debug\ambulanceMedicine.form_ambulance.FormDrug.resources
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\database-medicine\dbAmbulanceMedicineMain.mdf
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\database-medicine\dbAmbulanceMedicineMain_log.ldf
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\dbAmbulanceMedicineMainDataSet.Designer.cs
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\dbAmbulanceMedicineMainDataSet.xsc
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\dbAmbulanceMedicineMainDataSet.xsd
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\dbAmbulanceMedicineMainDataSet.xss
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\App.config
+C:\Users\USER\Desktop\work\курс 3 - в мире четырёх стен\проектирование ис\ambulance-service-work\main-ambulance-service\ambulanceMedicine\bin\Debug\packages.config
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\database-medicine\dbAmbulanceMedicineMain_log.ldf
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\database-medicine\dbAmbulanceMedicineMain.mdf
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\dbAmbulanceMedicineMainDataSet.Designer.cs
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\dbAmbulanceMedicineMainDataSet.xsc
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\dbAmbulanceMedicineMainDataSet.xsd
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\dbAmbulanceMedicineMainDataSet.xss
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\packages.config
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\App.config
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\ambulanceMedicine.exe.config
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\ambulanceMedicine.exe
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\ambulanceMedicine.pdb
+C:\Users\USER\Desktop\demo\demowork\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormAdministration.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormClient.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormDoctor.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormDrug.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormMedService.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormMedStaff.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormPass.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormTableAdministration.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormTableDoctor.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormTableMedHelper.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.form_ambulance.FormTableRegWorker.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.FormMain.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.Properties.Resources.resources
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.csproj.CopyComplete
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.exe
+C:\Users\USER\Desktop\demo\demowork\obj\Debug\ambulanceMedicine.pdb
